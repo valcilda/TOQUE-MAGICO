@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>MAIS FOTOS</title>
+    <link rel="shortcut icon" href="../MIDIAS/favicon.jpg" type="image/x-icon">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <style>
+      body {
+        background-color: rgb(255, 0, 132);
+      }
+      header {
+        background-image: linear-gradient(to top, rgb(255, 0, 195), rgb(128, 0, 0));
+        min-height: 150px;
+        text-align: center;
+        padding-top: 40px;
+        padding-bottom: 10px;
+    }
+    
+    header > h1 {
+        color: white;
+        font-family: var(--fonte-destaque);
+        font-size: 3em;
+        margin-bottom: 20px;
+        font-weight: normal;
+        text-shadow: 4px 3px 2px black;
+    }
+    
+    header > p {
+        color: white;
+        font-family: var(--fonte-padrão);
+        font-size: 1.2em;
+        color: white;
+        max-width: 600px;
+        padding-right: 10px;
+        padding-left: 10px;
+        margin: auto;
+        margin-bottom: 20px;
+        text-shadow: 2px 1px 1px rgba(0, 0, 0, 0.689);
+      }
+
+      h1,h3{
+        margin: 50px 0px 50px 0px;
+        text-align: center;
+      }
+      h3{
+        background-color: darkkhaki;
+      }
+      img{
+        height: 700px;
+      }
+      button {
+        margin-top: 10px;
+      }
+    </style>
+  </head>
+  <body class="text-center">
+    <header>
+      <h1>VEJA MAIS FOTOS</h1>
+      <p>
+          Conheça mais do meu trabalho, com essas 10 melhores imagens!
+      </p>   
+    </header>
+    <div id="banner" class="carousel slide" data-bs-ride="carousel">
+        <div id="indicadores" class="carousel-indicators">
+            <button type="button" data-bs-target="#banner" data-bs-slide-to="0" class="active"></button>
+            <button type="button" data-bs-target="#banner" data-bs-slide-to="1"></button>
+            <button type="button" data-bs-target="#banner" data-bs-slide-to="2"></button>
+            <button type="button" data-bs-target="#banner" data-bs-slide-to="3"></button>
+            <button type="button" data-bs-target="#banner" data-bs-slide-to="4"></button>
+            <button type="button" data-bs-target="#banner" data-bs-slide-to="5"></button>
+            <button type="button" data-bs-target="#banner" data-bs-slide-to="6"></button>
+            <button type="button" data-bs-target="#banner" data-bs-slide-to="7"></button>
+            <button type="button" data-bs-target="#banner" data-bs-slide-to="8"></button>
+            <button type="button" data-bs-target="#banner" data-bs-slide-to="9"></button>
+            <button type="button" data-bs-target="#banner" data-bs-slide-to="10"></button>
+        </div>
+    
+
+        <div id="imagens" class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="imagens/imagem01.jpg" alt="imagens" class="d-block w-100">
+            </div>
+            <div class="carousel-item">
+                <img src="imagens/imagem02.jpg" alt="imagens" class="d-block w-100">
+            </div>
+            <div class="carousel-item">
+                <img src="imagens/imagem03.jpg" alt="imagens" class="d-block w-100">
+            </div>
+            <div class="carousel-item">
+                <img src="imagens/imagem04.jpg" alt="imagens" class="d-block w-100">
+            </div>
+            <div class="carousel-item">
+                <img src="imagens/imagem05.jpg" alt="imagens" class="d-block w-100">
+            </div>
+            <div class="carousel-item">
+              <img src="imagens/imagem06.jpg" alt="imagens" class="d-block w-100">
+          </div>
+          <div class="carousel-item">
+            <img src="imagens/imagem07.jpg" alt="imagens" class="d-block w-100">
+        </div>
+        <div class="carousel-item">
+          <img src="imagens/imagem08.jpg" alt="imagens" class="d-block w-100">
+      </div>
+      <div class="carousel-item">
+        <img src="imagens/imagem09.jpg" alt="imagens" class="d-block w-100">
+    </div>
+    <div class="carousel-item">
+      <img src="imagens/imagem10.jpg" alt="imagens" class="d-block w-100">
+  </div>
+        </div>
+
+        <button type="button" class="carousel-control-prev" data-bs-target="#banner" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon"></span>
+        </button>
+        <button type="button" class="carousel-control-next" data-bs-target="#banner" data-bs-slide="next">
+            <span class="carousel-control-next-icon"></span>
+        </button>
+
+    </div>
+
+    <a href="../INDEX.html"><button type="button" class="btn btn-primary">VOLTAR</button></a>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
