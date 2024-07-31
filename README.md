@@ -24,4 +24,5 @@ O design é responsivo e atrativo, utilizando elementos visuais como imagens e b
 ## MAIS:
 * [CLIQUE AQUI PARA ACESSAR AO SITE](https://valcilda.github.io/TOQUE-MAGICO/INDEX.html)
 * [CLIQUE AQUI PARA ACESSAR AO REPOSITÓRIO](https://github.com/valcilda/TOQUE-MAGICO)
-* [SITE CRIADO PELO VILHALVA](https://telegra.ph/FREELANCER-10-19-9)
+* [SITE CRIADO PELO VILHALVA](https://github.com/VILHALVA)
+* [CRIE O SEU SITE](https://telegra.ph/FREELANCER-10-19-9)
