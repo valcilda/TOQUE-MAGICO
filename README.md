@@ -1,10 +1,10 @@
 # SITE TOQUE MAGICO
 👨‍⚖️TOQUE MAGICO É UM SITE QUE RODA NO GITHUB PAGES.
 
-<img src="./IMAGENS/FOTO_1.jpg" align="center" width="500"> <br>
-<img src="./IMAGENS/FOTO_2.jpg" align="center" width="500"> <br>
-<img src="./IMAGENS/FOTO_3.jpg" align="center" width="500"> <br>
-<img src="./IMAGENS/FOTO_4.jpg" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_01.jpg" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_02.jpg" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_03.jpg" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_04.jpg" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
 O site "TOQUE MÁGICO" é uma plataforma de apresentação e vendas dos produtos de Valcilda Martins das Neves, uma empreendedora especializada em acessórios exclusivos para adesivos de unhas. O site possui os seguintes recursos:
@@ -22,7 +22,7 @@ O site também inclui:
 O design é responsivo e atrativo, utilizando elementos visuais como imagens e botões de chamada para ação, que tornam a navegação intuitiva e agradável para os visitantes.
 
 ## MAIS:
-* [CLIQUE AQUI PARA ACESSAR AO SITE](https://valcilda.github.io/TOQUE-MAGICO/INDEX.html)
+* [CLIQUE AQUI PARA ACESSAR AO SITE](https://valcilda.github.io/TOQUE-MAGICO/index.html)
 * [CLIQUE AQUI PARA ACESSAR AO REPOSITÓRIO](https://github.com/valcilda/TOQUE-MAGICO)
 * [SITE CRIADO PELO VILHALVA](https://github.com/VILHALVA)
-* [CRIE O SEU SITE](https://telegra.ph/FREELANCER-10-19-9)
+* [CRIE O SEU SITE](https://vilhalva.github.io/STYLER/03_HOME/FREELANCER/index.html)
