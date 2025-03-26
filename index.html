@@ -3,94 +3,57 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TOQUE MAGICO</title>
-    <link rel="shortcut icon" href="MIDIAS/favicon.jpg" type="image/x-icon">
-    <link rel="stylesheet" href="CODIDO/ESTILO.css">
+    <link rel="shortcut icon" href="./01_HOME/MIDIAS/favicon.jpg" type="image/x-icon">
+    <title>ENTRANDO...</title>
+    <style>
+        body {
+            background-color: black;
+        }
+        
+        .loading-spinner {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            display: none;
+            text-align: center;
+        }
+        
+        .spinner {
+            border: 8px solid rgba(255, 255, 255, 0.2);  
+            border-top: 8px solid #3498db;  
+            border-radius: 50%;
+            width: 80px;
+            height: 80px;
+            animation: spin 1.2s linear infinite;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }        
+    </style>
 </head>
 <body>
-    <header class="header">
-        <nav>
-            <ul>
-                <li><a href="https://vilhalva.github.io/STYLER/03_HOME/FREELANCER/index.html" target="_blank">CRIE O SEU</a></li>
-                <li><a href="PRECOS/index.html">VER PREÇOS</a></li>
-                <li><a href="IMAGENS CARROCEL/index.html">MAIS FOTOS</a></li>
-                <li><a href="https://wa.me/5568992318734/?text=Olá!%20Eu%20quero%20comprar%20suas%20mercadorias.">CONTATO</a></li>
-            </ul>
-        </nav>
-    </header>
-
-    <header>
-        <div class="profile">
-            <img src="MIDIAS/VALCILDA.jpg" alt="Minha Foto">
-            <div class="profile-text">
-                <h1>QUEM SOU EU?</h1>
-                <p class="descricao">Olá! Meu nome é Valcilda Martins das Neves, tenho 47 anos e sou uma empreendedora apaixonada. Meu negócio consiste em oferecer uma ampla variedade de acessórios exclusivos para adesivos de unhas, tornando cada manicure uma experiência única e encantadora!</p>
-                <div class="buttons">
-                    <a href="https://wa.me/5568992318734/?text=Olá!%20Eu%20quero%20comprar%20suas%20mercadorias." class="button blue">CONTATO</a>
-                </div>
-            </div>
-        </div>
-    </header>
-    <section class="portfolio">
-        <div class="container">
-            <h1>MATERIAL</h1>
-            <h2>MERCADORIA PARA CONFECÇÃO</h2>
-            <hr>
-            <h3>PRINCIPAIS MERCADORIAS</h3>
-            <div class="row">
-                <div class="column">
-                    <div class="content">
-                        <img src="MIDIAS/peliculas.jpg" alt="pedrarias">
-                        <h3>
-                            <a class="zap" href="https://wa.me/5568992318734/?text=Olá!%20Eu%20quero%20comprar%20peliculas.">PELICULAS</a>
-                        </h3>
-                        <p>
-                            Essas películas são projetadas para serem aplicadas nas unhas, proporcionando um toque de estilo e elegância.
-                        </p>
-                        <p class="preco">R$ 1,00</p>
-                    </div>
-                </div>
-
-                <div class="column">
-                    <div class="content">
-                        <img src="MIDIAS/adesivoss.jpg" alt="pedrarias">
-                        <h3>
-                            <a class="zap" href="https://wa.me/5568992318734/?text=Olá!%20Eu%20quero%20comprar%20esses%20adesivos.">ADESIVOS</a>
-                        </h3>
-                        <p>
-                            Ofereço duas variedades de adesivos: artesanais e em película.
-                        </p>
-                        <p class="preco">De R$ 1,00 até R$ 5,00</p>
-                    </div>
-                </div>
-             
-                <div class="column">
-                    <div class="content">
-                        <img src="MIDIAS/pedrarias.jpg" alt="pedrarias">
-                        <h3>
-                            <a class="zap" href="https://wa.me/5568992318734/?text=Olá!%20Eu%20quero%20comprar%20pedraria.">PEDRARIAS</a>
-                        </h3>
-                        <p>
-                            Estas pequenas pedrarias são perfeitas para aprimorar seus adesivos de unhas.
-                        </p>
-                        <p class="preco">R$ 1,00</p>
-                    </div>
-                </div>               
-            </div>
-            <div class="buttons">
-                <a href="PORTFOLIO/index.html" class="button blue">MAIS</a>
-            </div>
-        </div>
-    </section>
-    
-    <footer>
-        <h1>REDES SOCIAIS:</h1>
-        <hr>
-        <div class="social-icons">
-            <a href="https://facebook.com/valsildasilda"><img src="https://images.vexels.com/media/users/3/223136/isolated/lists/984f500cf9de4519b02b354346eb72e0-m-dias-sociais-do-cone-do-facebook.png" alt="Facebook"></a>
-            <a href="https://www.instagram.com/valsilda/"><img src="https://png.pngtree.com/png-clipart/20230401/original/pngtree-three-dimensional-instagram-icon-png-image_9015419.png" alt="Instagram"></a>
-            <a href="https://chat.whatsapp.com/EYe3TWXd3MGE4pMBGTzUVX"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1200px-WhatsApp.svg.png" alt="WhatsApp"></a>
-        </div>
-    </footer>
+    <div id="loading" class="loading-spinner">
+        <div class="spinner"></div>
+    </div>
+    <script>
+        function sleep(ms) {
+            return new Promise((resolve) => setTimeout(resolve, ms));
+        }
+        
+        async function showSpinnerAndRedirect() {
+            var loading = document.querySelector('div#loading');
+            loading.style.display = 'block'; 
+        
+            await sleep(1000); 
+        
+            loading.style.display = 'none';
+            window.location.href = './01_HOME/index.html';
+        }
+        
+        window.onload = showSpinnerAndRedirect;        
+    </script>
 </body>
 </html>
