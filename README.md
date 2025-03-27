@@ -1,25 +1,29 @@
 # SITE TOQUE MAGICO
 👨‍⚖️TOQUE MAGICO É UM SITE QUE RODA NO GITHUB PAGES.
 
-<img src="./IMAGENS/FOTO_01.jpg" align="center" width="500"> <br>
-<img src="./IMAGENS/FOTO_02.jpg" align="center" width="500"> <br>
-<img src="./IMAGENS/FOTO_03.jpg" align="center" width="500"> <br>
-<img src="./IMAGENS/FOTO_04.jpg" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_1.jpg" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_2.jpg" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_3.jpg" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_4.jpg" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
-O site "TOQUE MÁGICO" é uma plataforma de apresentação e vendas dos produtos de Valcilda Martins das Neves, uma empreendedora especializada em acessórios exclusivos para adesivos de unhas. O site possui os seguintes recursos:
+O site "TOQUE MÁGICO" é a plataforma de apresentação e vendas dos produtos de Valcilda Martins das Neves, uma empreendedora especializada em acessórios exclusivos para adesivos de unhas. O site é estruturado da seguinte maneira:
 
-1. **Menu de Header**: Um menu de navegação no topo da página com links para várias seções importantes, incluindo "Crie o Seu", "Ver Preços", "Mais Fotos" e "Contato".
-2. **Página de Slides**: Uma página dedicada a uma galeria de slides com as 10 melhores fotos, utilizando o framework Bootstrap para um layout responsivo e elegante.
-3. **Página de Tabelas Responsivas**: As tabelas de preços foram movidas para uma página específica e agora são responsivas, garantindo melhor visualização em dispositivos móveis.
-4. **Página de Portfólio**: Uma seção similar à página inicial, mas com um design renovado, onde são apresentados os principais produtos como películas, adesivos e pedrarias, com descrições, preços e links para compra via WhatsApp.
+1. **Menu de Navegação (Header)**: O menu no topo oferece fácil acesso a seções importantes, como "Localização", "Preços" e "Sobre", tanto para desktop quanto para dispositivos móveis. O layout é responsivo, adaptando-se bem a diferentes tamanhos de tela.
 
-O site também inclui:
-- Uma descrição detalhada sobre a empreendedora, sua paixão e seus produtos.
-- Imagens de alta qualidade dos produtos oferecidos.
-- Links diretos para as redes sociais e contato via WhatsApp, facilitando a comunicação e o engajamento com os clientes.
+2. **Galeria de Slides**: Uma página dedicada a uma galeria com as melhores fotos dos produtos, utilizando o framework Materialize para garantir um layout visualmente atraente e responsivo.
 
-O design é responsivo e atrativo, utilizando elementos visuais como imagens e botões de chamada para ação, que tornam a navegação intuitiva e agradável para os visitantes.
+3. **Página de Produtos (Portfólio)**: Apresenta os principais produtos de Valcilda, como películas, adesivos e pedrarias. Cada produto é acompanhado de uma descrição detalhada, preço e links diretos para compra via WhatsApp, permitindo uma navegação intuitiva.
+
+4. **Página de Localização**: Inclui as informações sobre o endereço da empresa com um link direto para o Google Maps, facilitando a localização física para clientes que desejam visitar o local.
+
+5. **Página de Preços**: As tabelas de preços foram movidas para uma seção dedicada, agora de fácil visualização e completamente responsiva, melhorando a experiência do usuário em dispositivos móveis.
+
+6. **Sobre a Empreendedora**: Há uma seção dedicada a Valcilda Martins das Neves, contando sobre sua história, sua paixão pela arte dos adesivos de unhas e a experiência única que ela oferece aos seus clientes.
+
+O design do site é altamente responsivo, com um layout limpo e visualmente atraente. As imagens de alta qualidade dos produtos ajudam a destacar a beleza dos acessórios, enquanto os botões de chamada para ação (como "COMPRAR") tornam o processo de compra direto e fácil para os clientes.
+
+Além disso, o site inclui links para redes sociais, como Instagram, Facebook e WhatsApp, permitindo que os clientes se conectem diretamente com Valcilda para fazer perguntas ou realizar compras.
 
 ## MAIS:
 * [CLIQUE AQUI PARA ACESSAR AO SITE](https://valcilda.github.io/TOQUE-MAGICO/index.html)
