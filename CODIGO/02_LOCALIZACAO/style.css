@@ -1,0 +1,37 @@
+body {
+    background-color: #121212; 
+    color: #ffffff; 
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.address-info {
+    margin-bottom: 20px;
+    font-size: 1.2rem;
+}
+
+.btn-back {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.map-link {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.address-container {
+    background-color: #1f1f1f; 
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.address-info ul {
+    list-style-type: disc;
+    padding-left: 20px; 
+}
