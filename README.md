@@ -1,10 +1,10 @@
 # SITE TOQUE MAGICO
 👨‍⚖️TOQUE MAGICO É UM SITE QUE RODA NO GITHUB PAGES.
 
-<img src="./IMAGENS/FOTO_1.jpg" align="center" width="500"> <br>
-<img src="./IMAGENS/FOTO_2.jpg" align="center" width="500"> <br>
-<img src="./IMAGENS/FOTO_3.jpg" align="center" width="500"> <br>
-<img src="./IMAGENS/FOTO_4.jpg" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_01.jpg" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_02.jpg" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_03.jpg" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_04.jpg" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
 O site "TOQUE MÁGICO" é a plataforma de apresentação e vendas dos produtos de Valcilda Martins das Neves, uma empreendedora especializada em acessórios exclusivos para adesivos de unhas. O site é estruturado da seguinte maneira:
