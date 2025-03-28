@@ -27,7 +27,7 @@ ScrollReveal().reveal(".card-container", {
   easing: "ease-in-out",
   origin: "right",
   distance: "800px",
-  duration: 1000,
+  duration: 2500,
 });
 
 ScrollReveal().reveal(".gradient-line", {
@@ -35,7 +35,7 @@ ScrollReveal().reveal(".gradient-line", {
   easing: "ease",
   origin: "left",
   distance: "1800px",
-  duration: 1000,
+  duration: 3600,
 });
 
 ScrollReveal().reveal(".featured-title", {
@@ -43,7 +43,7 @@ ScrollReveal().reveal(".featured-title", {
   easing: "ease-in",
   origin: "right",
   distance: "200px",
-  duration: 1200,
+  duration: 1400,
 });
 
 ScrollReveal().reveal(".item", {

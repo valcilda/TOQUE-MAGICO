@@ -3,7 +3,7 @@
 * ✅ **Novo Layout Redesigned**: Todo o design foi redesenhado com um visual moderno e atraente, utilizando o *MaterializeCSS*, proporcionando uma interface mais clean, intuitiva e responsiva para todos os dispositivos.
 
 * ✅ **Novas Seções**:
-    * 🔸 **Home**: A página "Home" que você compartilhou é a página principal de um site chamado "TOQUE MÁGICO". Ela foi criada utilizando HTML e a biblioteca Materialize para garantir um design responsivo e moderno. A estrutura inclui:
+    * 🔸 [**Home**:](https://github.com/VILHALVA/SITE-DE-MATERIALIZECSS) A página "Home" que você compartilhou é a página principal de um site chamado "TOQUE MÁGICO". Ela foi criada utilizando HTML e a biblioteca Materialize para garantir um design responsivo e moderno. A estrutura inclui:
 
         1. **Cabeçalho (Header)**: Contém um menu de navegação com links para páginas de "Localização", "Preços" e "Sobre". O logo "TOQUE MÁGICO" está presente, e o menu é adaptável para dispositivos móveis.
 
@@ -26,7 +26,7 @@
 
         Além disso, incluímos um botão para **voltar** à página anterior, facilitando a navegação no site.
 
-    * 🔸 **Sobre**: Na nossa página "Sobre", você descobrirá mais sobre o **projeto "Acessórios para Adesivos de Unhas"**, criado para trazer soluções inovadoras e facilitar a aplicação de adesivos de unhas. O projeto tem como objetivo transformar essa tarefa em uma experiência prática, rápida e profissional, proporcionando ferramentas especializadas para todos os que buscam qualidade e eficiência. Além disso, incluímos uma galeria de imagens inspiradoras dos materiais que utilizamos, oferecendo uma visão do que está por trás dos nossos produtos. A navegação é intuitiva e você pode facilmente retornar à página anterior com um clique em **"Voltar"**.
+    * 🔸 [**Sobre**:](https://github.com/VILHALVA/COLLAGE-ARTISTICA) Na nossa página "Sobre", você descobrirá mais sobre o **projeto "Acessórios para Adesivos de Unhas"**, criado para trazer soluções inovadoras e facilitar a aplicação de adesivos de unhas. O projeto tem como objetivo transformar essa tarefa em uma experiência prática, rápida e profissional, proporcionando ferramentas especializadas para todos os que buscam qualidade e eficiência. Além disso, incluímos uma galeria de imagens inspiradoras dos materiais que utilizamos, oferecendo uma visão do que está por trás dos nossos produtos. A navegação é intuitiva e você pode facilmente retornar à página anterior com um clique em **"Voltar"**.
 ---
 
 ## VERSÃO 1.2 - 26/03/2025:
