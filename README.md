@@ -1,4 +1,4 @@
-# SITE TOQUE MAGICO
+# TOQUE MAGICO
 👨‍⚖️TOQUE MAGICO É UM SITE QUE RODA NO GITHUB PAGES.
 
 <img src="./IMAGENS/FOTO_01.jpg" align="center" width="500"> <br>
@@ -30,4 +30,5 @@ Além disso, o site inclui links para redes sociais, como Instagram, Facebook e 
 * [CLIQUE AQUI PARA ACESSAR AO REPOSITÓRIO](https://github.com/valcilda/TOQUE-MAGICO)
 * [SITE CRIADO PELO VILHALVA](https://github.com/VILHALVA)
 * [CRIE O SEU SITE](https://vilhalva.github.io/STYLER/03_HOME/FREELANCER/index.html)
+* [VEJA OS VIDEOS SOBRE ESSE SITE](https://www.youtube.com/@vilhalva100/search?query=TOQUE%20MAGICO)
 * [VEJA O HISTÓRICO DE ATUALIZAÇÕES](./UPDATES.md)
