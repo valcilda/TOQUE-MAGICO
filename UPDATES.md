@@ -1,4 +1,9 @@
 # ATUALIZAÇÕES:
+## VERSÃO 1.4 - 07/04/2025:
+* ✅ Como este site foi feito gratuitamente para minha mãe, adicionei um `modal` com o anúncio da minha página de `Freelancer`, que será exibido após o `spinner` de carregamento. Para acessar a `HOME`, basta clicar no botão `X`.
+* ✅ Foi adicionado um botão de `CONTATO`, permitindo que os clientes entrem em contato diretamente com a `VALCILDA`, sem mensagem `predefinida`. Esse recurso foi implementado utilizando o `POP MODAL`.
+---
+
 ## VERSÃO 1.3 - 27/03/2025:
 * ✅ **Novo Layout Redesigned**: Todo o design foi redesenhado com um visual moderno e atraente, utilizando o *MaterializeCSS*, proporcionando uma interface mais clean, intuitiva e responsiva para todos os dispositivos.
 
