@@ -1,4 +1,11 @@
 # ATUALIZAÇÕES:
+## VERSÃO 1.5 - 15/04/2025:
+* ✅ **Atualizações nos Anúncios:**
+  * 🔸 O banner do anúncio foi **redesenhado**, com destaque para a imagem incorporada diretamente no contêiner principal e a exibição do seu próprio `favicon`.
+  * 🔸 O anúncio agora conta com uma **contagem regressiva de 10 segundos** antes que o botão de fechar (`X`) seja ativado. Durante esse período, o botão permanece desabilitado.
+  * 🔸 Ao clicar em **qualquer área da imagem** (ou no contêiner `.content`), o link do `anúncio` será aberto — com o mesmo efeito do botão `SAIBA MAIS`.
+---
+
 ## VERSÃO 1.4 - 07/04/2025:
 * ✅ Como este site foi feito gratuitamente para minha mãe, adicionei um `modal` com o anúncio da minha página de `Freelancer`, que será exibido após o `spinner` de carregamento. Para acessar a `HOME`, basta clicar no botão `X`.
 * ✅ Foi adicionado um botão de `CONTATO`, permitindo que os clientes entrem em contato diretamente com a `VALCILDA`, sem mensagem `predefinida`. Esse recurso foi implementado utilizando o `POP MODAL`.
