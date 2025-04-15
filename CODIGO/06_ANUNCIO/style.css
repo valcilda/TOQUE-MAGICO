@@ -16,8 +16,8 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: space-between; 
-    padding: 15px 10px; 
+    justify-content: center; 
+    padding: 15px 10px;
     gap: 20px;
     transition: opacity 0.3s ease, transform 0.3s ease;
 }
@@ -30,11 +30,12 @@ body {
 
 .content {
     position: relative;
-    background-image: url('imagens/banner.jpg');
+    background-image: url('imagens/freelancer.jpg');
     background-size: contain;
     background-position: center top;
     background-repeat: no-repeat;
     border: 1px solid #333;
+    margin-bottom: 20px;
     border-radius: 15px;
     width: 90%;
     max-width: 500px;
