@@ -1,4 +1,9 @@
 # ATUALIZAÇÕES:
+## VERSÃO 1.6 - 22/04/2025:
+* ✅ Mudança no `header -> menu`: A alteração implementada cria dinamicamente os itens do menu usando JavaScript, preenchendo tanto o menu desktop quanto o móvel a partir de um único conjunto de dados. Isso elimina a duplicação de código HTML, tornando o código mais eficiente e fácil de manter.
+* ✅ A atualização no container de imagens `SOBRE A VALCILDA` transformou o antigo layout de foto estática em um carrossel dinâmico de imagens. Agora, em vez de exibir uma única imagem fixa, o carrossel apresenta uma sequência de fotos que se alternam automaticamente a cada 3 segundos. 
+---
+
 ## VERSÃO 1.5 - 15/04/2025:
 * ✅ **Atualizações nos Anúncios:**
   * 🔸 O banner do anúncio foi **redesenhado**, com destaque para a imagem incorporada diretamente no contêiner principal e a exibição do seu próprio `favicon`.
