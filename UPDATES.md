@@ -1,7 +1,7 @@
 # ATUALIZAÇÕES:
 ## VERSÃO 1.7 - 05/05/2025:
 * ✅ Na página *Home*, o estilo das fontes foi inserido, e o botão **"COMPRAR"** agora se destaca com um visual mais atrativo.
-* ✅ Sobre a seção *SOBRE A VALCILDA*: a idade agora é atualizada com base no **dia, mês e ano de nascimento**.
+* ✅ Na seção *SOBRE A VALCILDA*: a idade agora é atualizada com base no **dia, mês e ano de nascimento**.
 ---
 
 ## VERSÃO 1.6 - 22/04/2025:
