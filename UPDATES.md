@@ -1,4 +1,9 @@
 # ATUALIZAÇÕES:
+## VERSÃO 1.7 - 05/05/2025:
+* ✅ Na página *Home*, o estilo das fontes foi inserido, e o botão **"COMPRAR"** agora se destaca com um visual mais atrativo.
+* ✅ Sobre a seção *SOBRE A VALCILDA*: a idade agora é atualizada com base no **dia, mês e ano de nascimento**.
+---
+
 ## VERSÃO 1.6 - 22/04/2025:
 * ✅ Mudança no `header -> menu`: A alteração implementada cria dinamicamente os itens do menu usando JavaScript, preenchendo tanto o menu desktop quanto o móvel a partir de um único conjunto de dados. Isso elimina a duplicação de código HTML, tornando o código mais eficiente e fácil de manter.
 * ✅ A atualização no container de imagens `SOBRE A VALCILDA` transformou o antigo layout de foto estática em um carrossel dinâmico de imagens. Agora, em vez de exibir uma única imagem fixa, o carrossel apresenta uma sequência de fotos que se alternam automaticamente a cada 3 segundos. 

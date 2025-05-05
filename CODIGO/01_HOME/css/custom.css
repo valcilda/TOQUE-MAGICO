@@ -1,3 +1,48 @@
+@font-face {
+  font-family: "FONTE_1";
+  src: url(../fonts/geral/idroid.otf);
+}
+
+@font-face {
+  font-family: "FONTE_2";
+  src: url(../fonts/geral/BebasNeue-Regular.ttf);
+}
+
+@font-face {
+  font-family: "FONTE_3";
+  src: url(../fonts/geral/CascadiaCode-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-family: "FONTE_4";
+  src: url(../fonts/geral/Anton-Regular.ttf);
+}
+
+.brand-logo {
+  font-family: "FONTE_1";
+}
+
+.light {
+  font-family: "FONTE_2";
+}
+
+.card-title {
+  font-family: "FONTE_3";
+}
+
+.white-text {
+  font-family: "FONTE_4";
+}
+
+article.col.s12.l6.xl4 .card-action a {
+  background-color: #af0661;
+  color: white !important;
+  padding: 8px 16px;
+  border-radius: 4px;
+  display: inline-block;
+  text-decoration: none;
+}
+
 .slider h3 {
   font-weight: bolder;
 }
