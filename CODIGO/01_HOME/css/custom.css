@@ -20,7 +20,7 @@
 
 .brand-logo {
   font-family: "FONTE_1";
-  margin-left: 20px;
+  margin-left: 20px !important;
 }
 
 .light {
