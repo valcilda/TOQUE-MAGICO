@@ -1,6 +1,6 @@
 # ATUALIZAÇÕES:
 ## VERSÃO 1.8 - 06/05/2025:
-* ✅ **Foi adicionado o arquivo `404.html`**: se alguém tentar acessar uma URL antiga que não existe mais, será exibida uma página personalizada de erro com a mensagem explicativa e um botão `VOLTAR` para retornar ao site.
+* ✅ **Foi adicionado o arquivo `404.html`**: Se alguém tentar acessar uma URL antiga que não existe mais, será exibida uma página personalizada de erro com a mensagem explicativa e um botão `VOLTAR` para retornar ao site.
 * ✅ **Foi adicionado validação de `https`**: Para garantir que os usuários acessem o site corretamente através da página de `ANÚNCIO`, foi implementado um sistema de validação em JavaScript. Esse sistema verifica se o visitante chegou até a página atual por meio da URL específica do `ANÚNCIO`. Se for detectado que o usuário acessou diretamente uma página (ou seja, sem passar pelo `ANÚNCIO`), o site oculta todo o conteúdo usando CSS (`display: none`) e exibe um alerta informando a tentativa de acesso irregular. Em seguida, o usuário é automaticamente redirecionado para a página inicial. A liberação do conteúdo da página só acontece se o script (`validacao.js`) confirmar que o acesso veio de um caminho autorizado.
 ---
 
