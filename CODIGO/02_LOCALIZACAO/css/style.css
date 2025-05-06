@@ -1,6 +1,11 @@
 body {
+    display: none;
     background-color: #121212; 
     color: #ffffff; 
+}
+  
+body.js-enabled {
+    display: block;
 }
 
 .container {

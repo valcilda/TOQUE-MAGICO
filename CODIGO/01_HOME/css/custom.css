@@ -18,6 +18,14 @@
   src: url(../fonts/geral/Anton-Regular.ttf);
 }
 
+body {
+  display: none;
+}
+
+body.js-enabled {
+  display: block;
+}
+
 .brand-logo {
   font-size: 30px;
   font-family: "FONTE_1";
