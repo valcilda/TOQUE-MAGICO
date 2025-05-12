@@ -6,7 +6,12 @@
       <title>TOQUE MAGICO</title>
       <link rel="shortcut icon" href="../favicon.jpg" type="image/x-icon">
       <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <script src="js/jquery.min.js"></script>
+      <script src="js/materialize.min.js"></script>
       <script src="./js/validacao.js"></script>
+      <script src="js/menu.js"></script> 
+      <script src="./js/carousel.js"></script>
+      <script src="./js/idade.js"></script>
       <link rel="stylesheet" href="css/materialize.min.css">
       <link rel="stylesheet" href="css/custom.css">  
     </head>
@@ -21,7 +26,8 @@
             </a>
             <ul class="right hide-on-med-and-down" id="menu-desktop"></ul>
             <ul class="side-nav" id="mobile-demo"></ul> 
-          </div>
+              </div>
+           </div> 
         </nav>
         </div>
     </header>
@@ -29,28 +35,28 @@
     <div class="slider">
         <ul class="slides">
           <li>
-            <img src="./foto/imagem01.jpg"> 
+            <img src="imagens/slides/01.jpg"> 
             <div class="caption center-align">
                 <h3>Transforme suas unhas com estilo!</h3>
                 <h5 class="light grey-text text-lighten-3 text-bold">Adesivos exclusivos para uma beleza única.</h5>
             </div>
         </li>
         <li>
-            <img src="./foto/imagem02.jpg"> 
+            <img src="imagens/slides/02.jpg"> 
             <div class="caption left-align">
                 <h3>Materiais de alta qualidade</h3>
                 <h5 class="light grey-text text-lighten-3 text-bold">Tudo o que você precisa para unhas perfeitas.</h5>
             </div>
         </li>
         <li>
-            <img src="./foto/imagem03.jpg"> 
+            <img src="imagens/slides/03.jpg"> 
             <div class="caption right-align">
                 <h3>Bons Acessórios</h3>
                 <h5 class="light grey-text text-lighten-3 text-bold">Deixe sua criatividade brilhar com nossos produtos.</h5>
             </div>
         </li>
         <li>
-            <img src="./foto/imagem04.jpg"> 
+            <img src="imagens/slides/04.jpg"> 
             <div class="caption center-align">
                 <h3>Beleza e praticidade em cada detalhe</h3>
                 <h5 class="light grey-text text-lighten-3 text-bold">Descubra a magia dos adesivos de unhas.</h5>
@@ -65,7 +71,7 @@
           <article class="col s12 l6 xl4">
             <div class="card">
               <div class="card-image">
-                 <img src="imagens/peliculas.jpg">                 
+                 <img src="imagens/mercadorias/peliculas.jpg">                 
                </div>
                <div class="card-content">
                  <span class="card-title">PELICULAS</span>
@@ -80,7 +86,7 @@
             <article class="col s12 l6 xl4">
             <div class="card">
               <div class="card-image">
-                 <img src="imagens/adesivos.jpg">                 
+                 <img src="imagens/mercadorias/adesivos.jpg">                 
                </div>
                <div class="card-content">
                  <span class="card-title">ADESIVOS</span>
@@ -95,7 +101,7 @@
            <article class="col s12 l6 xl4">
             <div class="card">
               <div class="card-image">
-                 <img src="imagens/pedrarias.jpg">                 
+                 <img src="imagens/mercadorias/pedrarias.jpg">                 
                </div>
                <div class="card-content">
                  <span class="card-title">PEDRARIAS</span>
@@ -112,7 +118,7 @@
         <h5 class="light">VENDAS:</h5>
         <ul class="collection">
           <li class="collection-item avatar">
-              <img src="footer/user.jpg" alt="" class="circle">
+              <img src="imagens/footer/user.jpg" alt="" class="circle">
               <span class="title">Adesivos de Unhas</span>
               <p>Fáceis de aplicar e com designs incríveis <br>
                  Transforme suas unhas em segundos!
@@ -169,32 +175,32 @@
                    <ul>
                     <li>
                       <a href="https://vilhalva.github.io/STYLER/01_HOME/FREELANCER/index.html" target="_blank">
-                          <img src="footer/freelancer-icon.jpg" width="32">
+                          <img src="imagens/footer/freelancer.jpg" width="32">
                       </a>
                   </li>
                     <li>
                         <a href="https://www.facebook.com/share/15HR5bmk64/" target="_blank">
-                            <img src="footer/facebook-icon.png" width="32">
+                            <img src="imagens/footer/facebook.png" width="32">
                         </a>
                     </li>
                     <li>
                         <a href="https://facebook.com/valsildasilda" target="_blank">
-                            <img src="footer/facebook-icon.png" width="32">
+                            <img src="imagens/footer/facebook.png" width="32">
                         </a>
                     </li>
                     <li>
                         <a href="https://www.instagram.com/valsilda/" target="_blank">
-                            <img src="footer/instagram-icon.png" width="32">
+                            <img src="imagens/footer/instagram.png" width="32">
                         </a>
                     </li>
                     <li>
                         <a href="https://chat.whatsapp.com/EYe3TWXd3MGE4pMBGTzUVX" target="_blank">
-                            <img src="footer/whatsapp-icon.png" width="32">
+                            <img src="imagens/footer/whatsapp.png" width="32">
                         </a>
                     </li>
                     <li>
                         <a href="https://github.com/valcilda/TOQUE-MAGICO" target="_blank">
-                            <img src="footer/github-icon.png" width="32">
+                            <img src="imagens/footer/github.png" width="32">
                         </a>
                     </li>
                   </ul>                
@@ -207,11 +213,8 @@
                 <a class="grey-text text-lighten-4" href="https://vilhalva.github.io/STYLER/index.html" target="_blank">
                     VILHALVA
                 </a>
-            </div>
-          </footer>
-      
-    <script src="js/jquery.min.js"></script>
-    <script src="js/materialize.min.js"></script>
-    <script src="js/script.js"></script> 
+              </div>
+            </div> 
+        </footer>
     </body>
   </html>
