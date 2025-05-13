@@ -68,6 +68,9 @@ article.col.s12.l6.xl4 .card-action a {
   z-index: 2; 
 }
 
+.side-nav {background-color: #af0661;}
+.side-nav li>a {color: #fff;}
+
 .carousel-container {
   flex: 1; 
   margin-right: 20px; 
@@ -107,6 +110,10 @@ footer ul li {
   display: inline-block;
 }
 
+footer img {
+  width: 32px;
+}
+
 @media only screen and (min-width: 993px) {
   .container {
     width: 90%;
@@ -122,6 +129,4 @@ footer ul li {
   }
 }
 
-.side-nav {background-color: #af0661;}
-.side-nav li>a {color: #fff;}
 
