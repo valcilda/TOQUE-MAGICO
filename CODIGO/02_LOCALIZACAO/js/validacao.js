@@ -5,7 +5,7 @@ window.onload = function () {
 
     function denyAccess() {
         document.body.style.display = 'none';
-        alert('😡ATENÇÃO: FOI DETECTADO QUE VOCÊ ACESSOU ESSA PÁGINA SEM PASSAR PELA HOME! VOCÊ SERÁ REDIRECIONADO PARA A PÁGINA INICIAL!');
+        alert('😡ATENÇÃO: FOI DETECTADO QUE VOCÊ ACESSOU ESTA PÁGINA SEM PASSAR PELA HOME! VOCÊ SERÁ REDIRECIONADO PARA A PÁGINA INICIAL!');
         window.location.href = 'https://valcilda.github.io/TOQUE-MAGICO/index.html';
     }
 
