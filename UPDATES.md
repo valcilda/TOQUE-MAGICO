@@ -1,4 +1,12 @@
 # ATUALIZAÇÕES:
+## VERSÃO 2.0 - 14/05/2025:
+* ✅ Foi adicionada ao site a funcionalidade de prévia de link com título, foto e descrição, permitindo que ao compartilhar o link em redes sociais como WhatsApp, Facebook e Twitter, uma visualização personalizada com informações relevantes e imagem de destaque seja exibida automaticamente. Confira você mesmo! Compartilhe este link em suas redes sociais e veja a prévia personalizada com título, imagem e descrição em ação:
+
+```
+https://valcilda.github.io/TOQUE-MAGICO/index.html
+```
+
+---
 ## VERSÃO 1.9 - 12/05/2025:
 * ✅ **Mudanças na página `HOME`**:
     * 🔸 **Fragmentação do JavaScript:** Anteriormente, todo o código JavaScript estava concentrado em um único arquivo: `script.js`. Agora, cada funcionalidade foi separada em arquivos específicos, como: `carousel.js`, `idade.js`, `menu.js` e `validacao.js`.
