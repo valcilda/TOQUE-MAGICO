@@ -5,7 +5,8 @@ $(document).ready(function () {
     var totalImages = 9;
     var carousel = $("#carousel");
     for (var i = 1; i <= totalImages; i++) {
-        carousel.append('<img src="./imagens/valcilda/' + i + '.jpg" alt="VALCILDA ' + i + '">');
+        var numeroFormatado = i.toString().padStart(2, '0');
+        carousel.append('<img src="./imagens/valcilda/' + numeroFormatado + '.jpg" alt="VALCILDA ' + numeroFormatado + '">');
     }
 
     $("#carousel img:eq(0)").addClass("ativo").show();
