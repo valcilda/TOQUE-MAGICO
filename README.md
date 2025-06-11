@@ -25,6 +25,12 @@ O design do site é altamente responsivo, com um layout limpo e visualmente atra
 
 Além disso, o site inclui links para redes sociais, como Instagram, Facebook e WhatsApp, permitindo que os clientes se conectem diretamente com Valcilda para fazer perguntas ou realizar compras.
 
+## TECNOLOGIAS:
+* [HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [MATERIALIZECSS](https://github.com/VILHALVA/CURSO-DE-MATERIALIZECSS)
+* [BOOTSTRAP](https://github.com/VILHALVA/CURSO-DE-BOOTSTRAP)
+
 ## MAIS:
 * [CLIQUE AQUI PARA ACESSAR AO SITE](https://valcilda.github.io/TOQUE-MAGICO/index.html)
 * [CLIQUE AQUI PARA ACESSAR AO REPOSITÓRIO](https://github.com/valcilda/TOQUE-MAGICO)
