@@ -19,7 +19,7 @@ O site "TOQUE MÁGICO" é a plataforma de apresentação e vendas dos produtos d
 
 5. **Página de Contato (CONTATO)**: Essa página é uma interface de contato que exibe um pop-up centralizado convidando o usuário a entrar em contato via WhatsApp. Ela combina HTML, CSS e JavaScript para criar um efeito de abertura e fechamento suave do pop-up, com um botão que direciona para o número de contato.
 
-**6. Recursos Extras:** Este site conta com funcionalidades adicionais, incluindo `Anúncios`, `Validação HTTPS` e `Proteção contra o uso de ferramentas de desenvolvedor`.
+6. **Recursos Extras:** Este site conta com funcionalidades adicionais, incluindo `Anúncios`, `Validação HTTPS` e `Proteção contra o uso de ferramentas de desenvolvedor`.
 
 ## TECNOLOGIAS:
 * [HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
