@@ -7,23 +7,19 @@
 <img src="./IMAGENS/FOTO_04.jpg" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
-O site "TOQUE MÁGICO" é a plataforma de apresentação e vendas dos produtos de Valcilda Martins das Neves, uma empreendedora especializada em acessórios exclusivos para adesivos de unhas. O site é estruturado da seguinte maneira:
+O site "TOQUE MÁGICO" é a plataforma de apresentação e vendas dos produtos de `Valcilda Martins das Neves`, uma empreendedora especializada em acessórios exclusivos para adesivos de unhas. O site é estruturado da seguinte maneira:
 
-1. **Menu de Navegação (Header)**: O menu no topo oferece fácil acesso a seções importantes, como "Localização", "Preços" e "Sobre", tanto para desktop quanto para dispositivos móveis. O layout é responsivo, adaptando-se bem a diferentes tamanhos de tela.
+1. **Menu de Navegação (HOME)**: O menu no topo oferece fácil acesso a seções importantes, como `LOCALIZAÇÃO`, `PREÇOS` `SOBRE` e `CONTATO`, tanto para desktop quanto para dispositivos móveis. Apresenta os principais produtos de Valcilda, como películas, adesivos e pedrarias. Cada produto é acompanhado de uma descrição detalhada, preço e links diretos para compra via WhatsApp. Além disso, o site inclui links para redes sociais, como Instagram, Facebook e WhatsApp (No `rodapé`). 
 
-2. **Galeria de Slides**: Uma página dedicada a uma galeria com as melhores fotos dos produtos, utilizando o framework Materialize para garantir um layout visualmente atraente e responsivo.
+2. **Página de Localização (LOCALIZAÇÃO)**: Inclui as informações sobre o endereço da empresa com um link direto para o Google Maps, facilitando a localização física para clientes que desejam visitar o local.
 
-3. **Página de Produtos (Portfólio)**: Apresenta os principais produtos de Valcilda, como películas, adesivos e pedrarias. Cada produto é acompanhado de uma descrição detalhada, preço e links diretos para compra via WhatsApp, permitindo uma navegação intuitiva.
+3. **Página de Preços (PREÇOS)**: Essa página apresenta tabelas de preços de produtos, separados por preços padrão e valores no atacado.
 
-4. **Página de Localização**: Inclui as informações sobre o endereço da empresa com um link direto para o Google Maps, facilitando a localização física para clientes que desejam visitar o local.
+4. **Página de Produtos (SOBRE)**: Essa página mostra informações sobre a empresa, como funciona a venda sob encomenda e atacado, exibindo imagens dos produtos e materiais utilizados, com seções de apresentação e galeria.
 
-5. **Página de Preços**: As tabelas de preços foram movidas para uma seção dedicada, agora de fácil visualização e completamente responsiva, melhorando a experiência do usuário em dispositivos móveis.
+5. **Página de Contato (CONTATO)**: Essa página é uma interface de contato que exibe um pop-up centralizado convidando o usuário a entrar em contato via WhatsApp. Ela combina HTML, CSS e JavaScript para criar um efeito de abertura e fechamento suave do pop-up, com um botão que direciona para o número de contato.
 
-6. **Sobre a Empreendedora**: Há uma seção dedicada a Valcilda Martins das Neves, contando sobre sua história, sua paixão pela arte dos adesivos de unhas e a experiência única que ela oferece aos seus clientes.
-
-O design do site é altamente responsivo, com um layout limpo e visualmente atraente. As imagens de alta qualidade dos produtos ajudam a destacar a beleza dos acessórios, enquanto os botões de chamada para ação (como "COMPRAR") tornam o processo de compra direto e fácil para os clientes.
-
-Além disso, o site inclui links para redes sociais, como Instagram, Facebook e WhatsApp, permitindo que os clientes se conectem diretamente com Valcilda para fazer perguntas ou realizar compras.
+**6. Recursos Extras:** Este site conta com funcionalidades adicionais, incluindo `Anúncios`, `Validação HTTPS` e `Proteção contra o uso de ferramentas de desenvolvedor`.
 
 ## TECNOLOGIAS:
 * [HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
